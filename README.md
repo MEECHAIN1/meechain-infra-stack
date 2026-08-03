@@ -38,5 +38,5 @@ The included `netlify.toml` does the same proxy mapping.
 If you want to bypass proxy rules and call another backend, set:
 
 ```bash
-VITE_API_BASE_URL=https://your-api-domain.com
+VITE_API_BASE_URL=https://rpc.meechain.live
 ```
